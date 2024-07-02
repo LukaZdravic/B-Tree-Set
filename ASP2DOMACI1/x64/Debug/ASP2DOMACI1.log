@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\ASP2DOMACI1\main.cpp(249,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\ASP2DOMACI1\main.cpp(269,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\ASP2DOMACI1\main.cpp(315,154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\ASP2DOMACI1\main.cpp(315,128): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\ASP2DOMACI1\main.cpp(229): warning C4715: 'Cvor::ubaci_vrednost': not all control paths return a value
+  ASP2DOMACI1.vcxproj -> C:\Users\lukaz\Desktop\ASP2DOMACI1\ASP2DOMACI1\x64\Debug\ASP2DOMACI1.exe
